@@ -1,5 +1,5 @@
 
-  function validform() { <!-- fun braket open -->
+  function validform() { //fun braket open
   let name=document.getElementById("name").value;
   let email=document.getElementById("email").value;
         
@@ -10,5 +10,5 @@
         alert ("success");
         return true;
         
-     } <!-- fun braket close -->
+     } //fun braket close 
 
